@@ -1,12 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### About Me:    
-I am a passionate developer proficient in multiple programming languages. For back-end development, I master Java, JavaScript, Python, PHP, Go, and Rust. For front-end development, I excel in ReactJS and Dart/Flutter.
+### About Me: 
+I am a passionate developer proficient in multiple programming languages, excelling in both back-end and front-end development. My back-end expertise includes Java, JavaScript, Python, PHP, Go, and Rust. For front-end development, I specialize in ReactJS and Dart/Flutter.
 
-With a strong foundation in software engineering principles and a keen eye for detail, I thrive in building robust and scalable applications. My experience spans developing efficient APIs, creating dynamic user interfaces, and integrating complex systems. I am always eager to learn new technologies and continuously improve my skills to stay ahead in the ever-evolving tech landscape.
+With a strong foundation in software engineering principles and a keen eye for detail, I build robust, scalable applications. My experience encompasses developing efficient APIs, dynamic user interfaces, and integrating complex systems. I am committed to continuous learning and skill enhancement to stay ahead in the evolving tech landscape.
 
-In addition to coding, I enjoy collaborating with cross-functional teams, contributing to open-source projects, and mentoring aspiring developers. My goal is to leverage my expertise to deliver innovative solutions that drive business success and enhance user experiences.     
-   
+I enjoy collaborating with cross-functional teams, contributing to open-source projects, and mentoring aspiring developers. My goal is to leverage my expertise to deliver innovative solutions that drive business success and enhance user experiences.
+
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
